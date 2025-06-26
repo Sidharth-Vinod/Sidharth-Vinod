@@ -8,11 +8,6 @@
   <a href="mailto:sidharthvnd123@gmail.com">📧 Email</a> • 
   <a href="https://linkedin.com/in/sidharth-vinod1">🔗 LinkedIn</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharthvinod&show_icons=true&theme=radical" alt="Sidharth's GitHub stats" />
-</p>
-
 ---
 
 ### 🧰 Tech Toolbox
