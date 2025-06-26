@@ -18,7 +18,7 @@
 ![KiCad](https://img.shields.io/badge/-KiCad-283593?style=flat&logo=kicad&logoColor=white)
 ![LTSpice](https://img.shields.io/badge/-LTSpice-orange?style=flat)
 
----
+
 
 ## 🚀 About Me
 
@@ -26,7 +26,7 @@ I'm an Electronics and Communication Engineer who enjoys turning ideas into real
 
 I specialize in **RF circuits**, **IoT systems**, and **PCB design**, with a soft spot for simulation tools that crash 5 minutes before the deadline. 🫠
 
-When I'm not debugging (read: crying over) microwave components, I’m probably experimenting with something new or exploring how tech can impact the environment and healthcare.
+When I'm not debugging  microwave components, I’m probably experimenting with something new or exploring how tech can impact the environment and healthcare.
 
 ---
 
@@ -38,7 +38,7 @@ When I'm not debugging (read: crying over) microwave components, I’m probably 
 
 ---
 
-## 🧠 Cool Stuff I’ve Built
+## 🧠 Stuff I’ve Built
 
 | Project                                     | What It Does                                                                                        |
 |---------------------------------------------|---------------------------------------------------------------------------------------------------|
